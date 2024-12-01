@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1733059910,
+      "filename": "lineage-14.1-20241201-UNOFFICIAL-mantis.zip",
+      "id": "66d4594bfb790417b07cb8cd513c2c79",
+      "romtype": "unofficial",
+      "size": 279702413,
+      "url": "https://github.com/r0rt1z2-releases/LineageOS_mantis/releases/download/20241201/lineage-14.1-20241201-UNOFFICIAL-mantis.zip",
+      "version": "14.1"
+    }
+  ]
+}
