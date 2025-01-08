@@ -6,8 +6,10 @@
 
 ### Known bugs ###
 
-- GAPPs aren't working (can't sign in).
 - SELinux is set to Permissive.
+
+### Notes ###
+- To log in to your Google Account, tap the three-dot menu in the top-right corner of the Sign-in screen and update the Play Store. Wait about 5 minutes, reboot the device, and try signing in again. It should work.​
 
 > [!WARNING]
 > Bootloader unlock is a must. Read how to unlock yours [here](https://xdaforums.com/t/unlock-root-twrp-unbrick-fire-tv-stick-4k-mantis.3978459/)
