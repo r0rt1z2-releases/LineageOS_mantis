@@ -5,8 +5,10 @@
 - Amazon Fire TV Stick 4K (mantis)
 
 ### Known bugs ###
-
-- SELinux is set to Permissive.
+- HDR
+- Dolby E-AC-3 Audio
+- Voice search (Alexa remote)
+- SELinux is set to Permissive
 
 ### Notes ###
 - To log in to your Google Account, tap the three-dot menu in the top-right corner of the Sign-in screen and update the Play Store. Wait about 5 minutes, reboot the device, and try signing in again. It should work.​
